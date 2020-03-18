@@ -1,8 +1,5 @@
-$domains_arr['agasti.flipcause.com']['url'] = 'secure/cause_pdetails/MjA2';
-$domains_arr['agasti.flipcause.com']['app_id'] = '';
 
-$domains_arr['allhaitikids.flipcause.com']['url'] = 'secure/cause_pdetails/NjkwNTU=';
-$domains_arr['www.allhaitikids.flipcause.com']['url'] = 'secure/cause_pdetails/NjkwNTU=';
-$domains_arr['allhaitikids.flipcause.com']['app_id'] = '';
-$domains_arr['allhaitikids.flipcause.com']['app_secret'] = '';
+
+
+
 
